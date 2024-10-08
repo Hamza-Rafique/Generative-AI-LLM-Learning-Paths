@@ -50,6 +50,9 @@ Transformers are the backbone of large language models like **GPT** and **BERT**
 ### 3. **Popular Generative AI Models**
 
 #### a. **GPT (Generative Pre-trained Transformer)**
+
+![1__l8b50fZ65vUVhGEXrQ-3A](https://github.com/user-attachments/assets/a5bb779c-20ff-4e88-babb-1eaf27ca1877)
+
 GPT models (like GPT-3) are designed for text generation tasks. They are pre-trained on massive datasets and can generate coherent text that mimics human writing.
 
 **Applications**:
