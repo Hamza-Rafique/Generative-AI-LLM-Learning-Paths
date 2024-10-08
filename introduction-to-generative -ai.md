@@ -105,9 +105,3 @@ Generative AI raises ethical questions regarding the creation of misleading info
 Generative AI is transforming the way we create and interact with content. With advancements in neural networks, transformers, and GANs, we are on the cusp of a new era where AI can generate content that's indistinguishable from human creation.
 
 ---
-
-## Getting Started
-
-To explore this project, clone this repository:
-```bash
-git clone https://github.com/yourusername/generative-ai-intro.git
