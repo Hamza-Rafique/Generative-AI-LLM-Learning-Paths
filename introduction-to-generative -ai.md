@@ -36,10 +36,16 @@ GANs consist of two neural networks: a **generator** and a **discriminator**. Th
 #### b. **Variational Autoencoders (VAEs)**
 VAEs encode the input data into a latent space and then generate new data by sampling from that space. They are often used in generating smooth transitions between data points, such as generating new faces based on existing datasets.
 
+![VAE_Basic](https://github.com/user-attachments/assets/c67b052a-da00-4c41-991c-16861c800325)
+
+
+![Variational-AutoEncoder](https://github.com/user-attachments/assets/332a188c-8a65-4c81-b6ea-5672314f2da7)
+
 #### c. **Transformers**
 Transformers are the backbone of large language models like **GPT** and **BERT**. They use attention mechanisms to process sequences of text, making them ideal for tasks like language translation and text generation.
 
-![Transformer Architecture](https://example.com/transformer-image-path) <!-- Replace with Transformer architecture image -->
+![Transformer-apps-672x459](https://github.com/user-attachments/assets/b41513c8-270f-4646-b747-d08fb5f62128)
+
 
 ### 3. **Popular Generative AI Models**
 
