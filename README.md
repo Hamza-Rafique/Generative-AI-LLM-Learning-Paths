@@ -71,7 +71,7 @@ This repository serves as a comprehensive learning path for mastering **Generati
 ## How to Get Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/generative-ai-llm-learning-path.git
+    git clone https://github.com/Hamza-Rafique/Generative-AI-LLM-Learning-Paths.git
     ```
 2. Explore the **resources/** directory for tutorials and code examples.
 3. Start with the beginner's section and move through the advanced topics as you progress.
